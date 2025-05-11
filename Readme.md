@@ -88,9 +88,6 @@ The YouTube Video Analyzer is a Streamlit application that helps users find the 
 - AI-powered video relevance ranking
 - Embedded video player for the most relevant result
 
-## Security Note
-
-API keys have been included in the repository files. In a production environment, these should be removed from the code and stored securely as environment variables or in a secure vault.
 
 ## Requirements
 
